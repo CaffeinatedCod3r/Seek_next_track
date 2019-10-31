@@ -12,7 +12,7 @@ import android.view.ViewConfiguration;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-    private static final String TAG = "MyActivity";
+    private static final String TAG = "MainActivity";
     AudioManager mAudioManager = (AudioManager) getSystemService(Context.AUDIO_SERVICE);
 
 
